@@ -1,0 +1,76 @@
+.navbar ul {
+  list-style-type: none;
+}
+.navbar {
+  padding: 10;
+  text-align: center;
+}
+.navbar ul li {
+  display: inline-block;
+  margin-right: 30px;
+}
+.navbar ul a {
+  text-decoration: none;
+  color: whitesmoke;
+
+  font-size: 15px;
+
+  padding: 10px 20px;
+}
+nav {
+  background-color: wheat;
+}
+body {
+  background-color: rgb(220, 190, 155);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+table {
+  background-color: rgb(158, 120, 71);
+}
+table th {
+  color: white;
+}
+.HTML {
+  color: #cd8282;
+}
+.CSS {
+  color: rgb(148, 148, 207);
+}
+.JS {
+  color: green;
+}
+.Img {
+  display: inline-block;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.button {
+  background-color: rgb(178, 153, 29);
+  color: beige;
+}
+footer {
+  background-color: wheat;
+}
+.number {
+  font-size: 20px;
+  font-family: Georgia, serif;
+}
+.email {
+  margin-right: 150px;
+  font-size: 20px;
+  font-family: Georgia, serif;
+}
+.Contact {
+  color: #983232;
+}
+.Contact {
+  font-size: xx-large;
+}
+.register {
+  font-size: xx-large;
+  color: #983232;
+}
